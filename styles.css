@@ -1,0 +1,31 @@
+*{
+    
+    padding:4px;
+    margin: 6px;
+
+}
+div{
+    font: size 10px; 
+        padding: 10px 20px 20px;
+    
+}
+
+.element{
+   
+    border-color: powderblue violet powderblue;
+    border-width: 2px 10px 5px;
+    border-style: solid dotted solid;
+}
+
+#Seccion{
+    width:200px ;
+    height: 10px;
+    background-color: cyan;
+}
+
+kbd{
+    font-family: monospace;
+    color: blueviolet;
+}
+
+
