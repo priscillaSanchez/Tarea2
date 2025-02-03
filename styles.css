@@ -1,26 +1,42 @@
 *{
     
-    padding:4px;
-    margin: 6px;
+    padding:0px;
+    margin:10px;
+    box-sizing: border-box;
+
 
 }
+
+#Seccion{
+    width:300px ;
+    height: 40px;
+    background-color: cyan;
+}
+
+h2.libro{
+    padding-left: 45%;
+    padding-bottom: 10px;
+}
+.contenido{
+    padding-top: 20px;
+}
+
 div{
     font: size 10px; 
         padding: 10px 20px 20px;
     
 }
 
+.visual{
+    padding-top:20px ;
+    padding-bottom: 20px;
+}
+
 .element{
-   
+
     border-color: powderblue violet powderblue;
     border-width: 2px 10px 5px;
     border-style: solid dotted solid;
-}
-
-#Seccion{
-    width:200px ;
-    height: 10px;
-    background-color: cyan;
 }
 
 kbd{
@@ -28,4 +44,22 @@ kbd{
     color: blueviolet;
 }
 
+ul{
+    padding-left: 30px;
+}
+
+ol{
+    padding-left: 30px;
+}
+
+#info{
+    border: 5px solid red;
+}
+
+article{
+    border-style: dashed ;
+    border-width: 5px;
+    border-color: plum;
+
+}
 
